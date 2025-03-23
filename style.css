@@ -57,12 +57,14 @@ body{
     text-align: left;
 }
 
-.GTA_6{     
-    border-radius: 40px;
-    display:  flex;
+.GTA_6 img{
+    width:50%;
+    height:30%;
+    border-radius: 40px
 }
 
-.Switch_2{
-    border-radius: 40px;
-    display:  flex;
+.Switch_2 img{
+    width:50%;
+    height:30%;
+    border-radius: 40px
 }
