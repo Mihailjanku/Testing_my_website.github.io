@@ -1,1 +1,68 @@
+body{
+    background-color: #8BADC5;
+}
 
+.menu{
+    width: 1221px;
+    height: 80px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap; 
+    justify-content:space-evenly;
+    margin: auto;
+}
+
+.logo{
+    position: absolute;
+    width: 44px;
+    height: 44;
+    left: 40px;
+    top: 7px;
+    border-radius: 20px;
+}
+
+.News{
+    width: 81px;
+    height: 32px;
+    background-color: #FE7272;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 500px;
+}
+
+.Requests{
+    width: 81px;
+    height: 32px;
+    background-color: #739FFF;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+.Blogs{
+    width: 81px;
+    height: 32px;
+    background-color: #52ffa6;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 700px;
+}
+
+.pink_square{
+    width: 80%;
+    height: 100px;
+    background-color: #FFB9FA;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.GTA_6{     
+    border-radius: 40px;
+    display:  flex;
+}
+
+.Switch_2{
+    border-radius: 40px;
+    display:  flex;
+}
